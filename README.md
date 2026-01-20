@@ -2,8 +2,8 @@ I didn't try to make the code completely clean. I even experimented here and the
 
 ![][test0]
  
-[test0]: /tic-tac-toe/test0.png
+[test0]: test0.png
 
 ![][test1]
  
-[test1]: /tic-tac-toe/test1.png
+[test1]: test1.png
